@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+body{
+    background-color: #00bf8c4b
+}
+
+h1{
+    color: #036b4f;
+}
+
+h1#principal{
+    text-align: center;
+    background-color: #00402F;
+    color: #fff;
+}
+
+h2{
+    color: rgb(20, 87, 14);
+}
+
+.basico{
+    color: rgba(21, 136, 21, 0.788);
+
+}
+
+.intermediario{
+    color: rgba(185, 197, 14, 0.945);
+
+}
+
+.avançado{
+    color: rgba(180, 7, 7, 0.808);
+
+}
+
+.destaque{
+    background-color: #caca5a4f;
+
+}
